@@ -1,0 +1,5 @@
+speedtest-cli
+pandas
+sqlalchemy
+streamlit
+jupyter
